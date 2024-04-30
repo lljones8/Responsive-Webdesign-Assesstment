@@ -1,0 +1,11 @@
+.container{
+display:flex;
+flex-direction: column;
+flex-direction: wrap;
+}
+.header {
+text-align: center;
+}
+.line-1 {
+border: 1px solid rgb(143, 93, 143); 
+}
